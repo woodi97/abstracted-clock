@@ -3,6 +3,7 @@ import Head from "next/head"
 import { ClockWithTooltip } from "components/molecule/ClockWithTooltip"
 
 export default function Web() {
+  console.log("test")
   return (
     <>
       <Head>
